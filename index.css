@@ -1,0 +1,1049 @@
+.frame1homepagewebsite-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame1homepagewebsite-frame1homepagewebsite {
+  width: 100%;
+  height: 2603px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame1homepagewebsite-text {
+  top: 689.748046875px;
+  left: -1148px;
+  color: rgba(254, 254, 254, 1);
+  width: 851px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fredoka One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-vector {
+  top: 123px;
+  left: -7px;
+  width: 1449px;
+  height: 2183px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector01 {
+  top: 247px;
+  left: 729px;
+  width: 675px;
+  height: 298px;
+  opacity: 0.85;
+  position: absolute;
+}
+.frame1homepagewebsite-vector02 {
+  top: 841px;
+  left: -32px;
+  width: 1472px;
+  height: 734px;
+  opacity: 0.85;
+  position: absolute;
+}
+.frame1homepagewebsite-container1 {
+  top: 366px;
+  left: 771.171875px;
+  width: 574.828125px;
+  height: 144px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.frame1homepagewebsite-text02 {
+  top: 0px;
+  left: 0px;
+  color: #000000;
+  position: absolute;
+  font-size: 24px;
+  font-family: "Dekko";
+  line-height: 1.5;
+}
+.frame1homepagewebsite-group {
+  top: 576px;
+  left: 928px;
+  width: 212.85342407226562px;
+  height: 61px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-vector03 {
+  top: 0px;
+  left: 0px;
+  width: 213px;
+  height: 61px;
+  position: absolute;
+}
+.frame1homepagewebsite-text10 {
+  top: 14.411103248596191px;
+  left: 57.7852783203125px;
+  color: rgba(255, 255, 255, 1);
+  width: 135px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-text12 {
+  top: 288px;
+  left: 771px;
+  color: rgba(64, 142, 155, 1);
+  width: 420px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Fredoka";
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-text14 {
+  top: 900px;
+  left: 29px;
+  color: rgba(45, 130, 144, 1);
+  width: 959px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Fredoka";
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-vector04 {
+  top: 373.37255859375px;
+  left: 555.5675048828125px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector05 {
+  top: 373.0433349609375px;
+  left: 555.7969970703125px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector06 {
+  top: 372.72265625px;
+  left: 556.0562133789062px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector07 {
+  top: 378.44140625px;
+  left: 558.7545166015625px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector08 {
+  top: 375.2354736328125px;
+  left: 543.4822998046875px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector09 {
+  top: 369.61767578125px;
+  left: 544.5319213867188px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector10 {
+  top: 369.28271484375px;
+  left: 544.6934204101562px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector11 {
+  top: 374.1436767578125px;
+  left: 547.6212158203125px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector12 {
+  top: 392.764404296875px;
+  left: 556.8890380859375px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector13 {
+  top: 401.0911865234375px;
+  left: 556.9528198242188px;
+  width: 1px;
+  height: 3px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector14 {
+  top: 391.196044921875px;
+  left: 557.7049560546875px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector15 {
+  top: 390.277587890625px;
+  left: 558.4953002929688px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector16 {
+  top: 374.135009765625px;
+  left: 554.9683227539062px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector17 {
+  top: 379.108642578125px;
+  left: 554.6538696289062px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector18 {
+  top: 373.5458984375px;
+  left: 555.665283203125px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector19 {
+  top: 373.1298828125px;
+  left: 555.916015625px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector20 {
+  top: 378.44140625px;
+  left: 558.7205810546875px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector21 {
+  top: 375.2181396484375px;
+  left: 543.4950561523438px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector22 {
+  top: 369.49072265625px;
+  left: 544.400146484375px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector23 {
+  top: 369.22216796875px;
+  left: 544.63818359375px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector24 {
+  top: 369.1441650390625px;
+  left: 544.8038330078125px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector25 {
+  top: 368.892822265625px;
+  left: 544.901611328125px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector26 {
+  top: 375.157470703125px;
+  left: 546.031982421875px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector27 {
+  top: 374.1436767578125px;
+  left: 547.6339111328125px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector28 {
+  top: 401.0391845703125px;
+  left: 543.5248413085938px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector29 {
+  top: 389.463134765625px;
+  left: 559.595947265625px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector30 {
+  top: 392.3397216796875px;
+  left: 560.0166015625px;
+  width: 0px;
+  height: 2px;
+  position: absolute;
+}
+.frame1homepagewebsite-group1 {
+  top: 203px;
+  left: -9px;
+  width: 715px;
+  height: 638px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-group2 {
+  top: 0px;
+  left: 0px;
+  width: 715px;
+  height: 638px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-vector31 {
+  top: 501.7796936035156px;
+  left: 650.1638793945312px;
+  width: 65px;
+  height: 122px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector32 {
+  top: 69.83277130126953px;
+  left: 352.40753173828125px;
+  width: 157px;
+  height: 73px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector33 {
+  top: 0px;
+  left: 0px;
+  width: 664px;
+  height: 638px;
+  position: absolute;
+}
+.frame1homepagewebsite-ilustrasiwebdesai-nsa02dd1 {
+  top: 305px;
+  left: -114px;
+  width: 897px;
+  height: 577px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector34 {
+  top: 1566px;
+  left: -32px;
+  width: 1483px;
+  height: 747px;
+  opacity: 0.85;
+  position: absolute;
+}
+.frame1homepagewebsite-vector35 {
+  top: 2313px;
+  left: -9px;
+  width: 1447px;
+  height: 1px;
+  opacity: 0.85;
+  position: absolute;
+}
+.frame1homepagewebsite-text16 {
+  top: 1707px;
+  left: 486px;
+  color: rgba(255, 255, 255, 1);
+  width: 959px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Fredoka";
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-image623 {
+  top: 3558px;
+  left: -2145px;
+  width: 522px;
+  height: 369px;
+  position: absolute;
+}
+.frame1homepagewebsite-frame1 {
+  top: 1802px;
+  left: 0px;
+  width: 1565px;
+  height: 377px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame1homepagewebsite-group35 {
+  top: 0px;
+  left: 0px;
+  width: 4724px;
+  height: 377px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-image621 {
+  top: 8px;
+  left: 621px;
+  width: 522px;
+  height: 369px;
+  position: absolute;
+}
+.frame1homepagewebsite-image6231 {
+  top: 8px;
+  left: 3020px;
+  width: 522px;
+  height: 369px;
+  position: absolute;
+}
+.frame1homepagewebsite-image631 {
+  top: 0px;
+  left: 0px;
+  width: 522px;
+  height: 369px;
+  position: absolute;
+}
+.frame1homepagewebsite-image633 {
+  top: 0px;
+  left: 2399px;
+  width: 522px;
+  height: 369px;
+  position: absolute;
+}
+.frame1homepagewebsite-image611 {
+  top: 0px;
+  left: 1230px;
+  width: 522px;
+  height: 369px;
+  position: absolute;
+}
+.frame1homepagewebsite-image613 {
+  top: 0px;
+  left: 3629px;
+  width: 522px;
+  height: 369px;
+  position: absolute;
+}
+.frame1homepagewebsite-image601 {
+  top: 0px;
+  left: 1803px;
+  width: 522px;
+  height: 369px;
+  position: absolute;
+}
+.frame1homepagewebsite-image603 {
+  top: 0px;
+  left: 4202px;
+  width: 522px;
+  height: 369px;
+  position: absolute;
+}
+.frame1homepagewebsite-group56 {
+  top: 1036px;
+  left: 6px;
+  width: 681px;
+  height: 257px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-group19 {
+  top: 23px;
+  left: 84px;
+  width: 597px;
+  height: 212px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-group16 {
+  top: 0px;
+  left: 0px;
+  width: 546px;
+  height: 212px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-vector36 {
+  top: 24px;
+  left: 60px;
+  width: 486px;
+  height: 169px;
+  position: absolute;
+}
+.frame1homepagewebsite-ellipse1 {
+  top: 0px;
+  left: 0px;
+  width: 212px;
+  height: 212px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 0);
+  border-style: solid;
+  border-width: 7px;
+}
+.frame1homepagewebsite-text18 {
+  top: 51px;
+  left: 227px;
+  color: rgba(212, 124, 5, 1);
+  width: 370px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-text20 {
+  top: 91px;
+  left: 227px;
+  color: rgba(0, 0, 0, 1);
+  width: 264px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-tugaslembarutswebdesain3removebgpreview11 {
+  top: 0px;
+  left: 0px;
+  width: 364px;
+  height: 257px;
+  position: absolute;
+}
+.frame1homepagewebsite-group57 {
+  top: 1277px;
+  left: 295px;
+  width: 644px;
+  height: 289px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-group20 {
+  top: 34px;
+  left: 98px;
+  width: 546px;
+  height: 212px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-group17 {
+  top: 0px;
+  left: 0px;
+  width: 546px;
+  height: 212px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-vector37 {
+  top: 24px;
+  left: 60px;
+  width: 486px;
+  height: 169px;
+  position: absolute;
+}
+.frame1homepagewebsite-ellipse11 {
+  top: 0px;
+  left: 0px;
+  width: 212px;
+  height: 212px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 0);
+  border-style: solid;
+  border-width: 7px;
+}
+.frame1homepagewebsite-text22 {
+  top: 44px;
+  left: 227px;
+  color: rgba(210, 122, 3, 1);
+  width: 257px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-text24 {
+  top: 121px;
+  left: 227px;
+  color: rgba(0, 0, 0, 1);
+  width: 264px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-tugaslembarutswebdesain6removebgpreview1 {
+  top: 0px;
+  left: 0px;
+  width: 408px;
+  height: 289px;
+  position: absolute;
+}
+.frame1homepagewebsite-group58 {
+  top: 1007px;
+  left: 655px;
+  width: 708px;
+  height: 316px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-group21 {
+  top: 58px;
+  left: 114px;
+  width: 594px;
+  height: 212px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-group18 {
+  top: 0px;
+  left: 0px;
+  width: 563px;
+  height: 212px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-vector38 {
+  top: 24px;
+  left: 60px;
+  width: 503px;
+  height: 169px;
+  position: absolute;
+}
+.frame1homepagewebsite-ellipse12 {
+  top: 0px;
+  left: 0px;
+  width: 212px;
+  height: 212px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 0);
+  border-style: solid;
+  border-width: 7px;
+}
+.frame1homepagewebsite-text26 {
+  top: 41px;
+  left: 224px;
+  color: rgba(210, 122, 3, 1);
+  width: 370px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-text32 {
+  top: 113px;
+  left: 223px;
+  color: rgba(0, 0, 0, 1);
+  width: 309px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-tugaslembarutswebdesain7removebgpreview1 {
+  top: 0px;
+  left: 0px;
+  width: 446px;
+  height: 316px;
+  position: absolute;
+  border-color: rgba(25, 24, 24, 0);
+  border-width: 1px;
+}
+.frame1homepagewebsite-component2 {
+  top: -89px;
+  left: 0px;
+  width: 1440px;
+  height: 305px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame1homepagewebsite-vector39 {
+  top: 90px;
+  left: 0px;
+  width: 1440px;
+  height: 128px;
+  position: absolute;
+}
+.frame1homepagewebsite-group55 {
+  top: 0px;
+  left: 59px;
+  width: 305px;
+  height: 305px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-logowarna101 {
+  top: 0px;
+  left: 0px;
+  width: 305px;
+  height: 305px;
+  position: absolute;
+}
+.frame1homepagewebsite-group14 {
+  top: 129px;
+  left: 735px;
+  width: 112.74668884277344px;
+  height: 51.1549072265625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-vector40 {
+  top: 0px;
+  left: 0px;
+  width: 113px;
+  height: 51px;
+  position: absolute;
+}
+.frame1homepagewebsite-text34 {
+  top: 11.832642555236816px;
+  left: 18px;
+  color: rgba(0, 0, 0, 1);
+  width: 85px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Fredoka";
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-text36 {
+  top: 140px;
+  left: 878px;
+  color: rgba(0, 0, 0, 1);
+  width: 193px;
+  height: auto;
+  position: absolute;
+  font-size: 22.77092742919922px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Fredoka";
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-group3 {
+  top: 139px;
+  left: 1095px;
+  width: 118.0285415649414px;
+  height: 44.660160064697266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-text38 {
+  color: rgba(0, 0, 0, 1);
+  width: 109px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Fredoka";
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-vector41 {
+  top: 8.5894775390625px;
+  left: 104.251953125px;
+  width: 14px;
+  height: 16px;
+  position: absolute;
+}
+.frame1homepagewebsite-group15 {
+  top: 126px;
+  left: 1286px;
+  width: 44.99994659423828px;
+  height: 46.16500473022461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-vector42 {
+  top: 0px;
+  left: 0.38291189074516296px;
+  width: 45px;
+  height: 46px;
+  position: absolute;
+}
+.frame1homepagewebsite-group4 {
+  top: 0px;
+  left: 0px;
+  width: 44.78969192504883px;
+  height: 46.163543701171875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-vector43 {
+  top: 7.2805399894714355px;
+  left: 15.140251159667969px;
+  width: 14px;
+  height: 15px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector44 {
+  top: 25.08928108215332px;
+  left: 6.483724594116211px;
+  width: 32px;
+  height: 21px;
+  position: absolute;
+}
+.frame1homepagewebsite-component9 {
+  top: 2367px;
+  left: 72px;
+  width: 1947px;
+  height: 284px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame1homepagewebsite-logowarna0611 {
+  top: -17px;
+  left: -30px;
+  width: 246px;
+  height: 217px;
+  position: absolute;
+}
+.frame1homepagewebsite-sosmed {
+  top: 63px;
+  left: 989px;
+  width: 173px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-vector45 {
+  top: 0px;
+  left: 48px;
+  width: 37px;
+  height: 36px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector46 {
+  top: 0px;
+  left: 0px;
+  width: 37px;
+  height: 36px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector47 {
+  top: 0px;
+  left: 139px;
+  width: 34px;
+  height: 36px;
+  position: absolute;
+}
+.frame1homepagewebsite-vector48 {
+  top: 0px;
+  left: 94px;
+  width: 37px;
+  height: 36px;
+  position: absolute;
+}
+.frame1homepagewebsite-text40 {
+  top: 25px;
+  left: 495px;
+  color: rgba(45, 130, 144, 1);
+  width: 939px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fredoka One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-text42 {
+  top: 24px;
+  left: 756px;
+  color: rgba(45, 130, 144, 1);
+  width: 959px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fredoka One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-group33 {
+  top: 59px;
+  left: 496px;
+  width: 816px;
+  height: 42.167293548583984px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1homepagewebsite-text44 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 554px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Dekko;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-text48 {
+  left: 262px;
+  color: rgba(0, 0, 0, 1);
+  width: 554px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Dekko;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1homepagewebsite-text50 {
+  top: 25px;
+  left: 987px;
+  color: rgba(45, 130, 144, 1);
+  width: 959px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fredoka One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
